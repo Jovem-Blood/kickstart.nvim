@@ -127,7 +127,6 @@ vim.opt.tabstop = 2
 vim.opt.signcolumn = 'yes'
 
 -- Decrease update time
-vim.opt.clipboard = 'unnamedplus'
 vim.opt.updatetime = 250
 
 -- Decrease mapped sequence wait time
